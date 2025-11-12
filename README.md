@@ -1,7 +1,5 @@
 # Local-RAG-with-NorMistral-7B-Warm-Instruct
 
-README.md — Local RAG with NorMistral-7B-Warm-Instruct + llama.cpp
-📘 Overview
 
 This project implements a fully local Retrieval-Augmented Generation (RAG) system using the NorMistral-7B-Warm-Instruct model served through llama.cpp.
 
